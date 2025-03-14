@@ -1,0 +1,24 @@
+{
+  "name": "@felipegimenes/coolsolelog",
+  "version": "1.0.1",
+  "description": "modificação para coolsole engraçado ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gimenessz/coolsolelog.git"
+  },
+  "author": "felipe gimenes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gimenessz/coolsolelog/issues"
+  },
+  "homepage": "https://github.com/Gimenessz/coolsolelog#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cows": "^3.0.1"
+  }
+}
